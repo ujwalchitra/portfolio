@@ -6,7 +6,7 @@ import {
 } from 'lucide-react'
 
 const GITHUB = 'https://github.com/ujwalchitra'
-const LINKEDIN = 'https://www.linkedin.com/in/ujwal-chitra-586048202'
+const LINKEDIN = 'https://www.linkedin.com/in/ujwalchitra/'
 const EMAIL = 'mailto:ujwal.chitra.pg25@nsut.ac.in'
 const RESUME = '/Ujwal-Chitra-Resume.pdf'
 
